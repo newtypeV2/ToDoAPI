@@ -1,0 +1,29 @@
+{
+    "Todos": [
+        {
+            "id": 1,
+            "title": "Clean house.",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "title": "Go To Work",
+            "completed": true
+          },
+          {
+            "id": 3,
+            "title": "Eat",
+            "completed": false
+          },
+          {
+            "id": 4,
+            "title": "Play",
+            "completed": false
+          },
+          {
+            "id": 5,
+            "title": "Cook",
+            "completed": false
+          }
+    ]
+}
